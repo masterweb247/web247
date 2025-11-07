@@ -1,0 +1,21 @@
+{
+  "name": "Central 247 de Acessos",
+  "short_name": "HUB 247",
+  "description": "Acesso rápido aos sites WebStories247 e WEB247.",
+  "start_url": "./", // Ao clicar no atalho, o usuário volta para esta página.
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#17a2b8",
+  "icons": [
+    {
+      "src": "icon-192x192.png", /* Ícone Único para o HUB */
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512x512.png", /* Ícone Único para o HUB */
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
